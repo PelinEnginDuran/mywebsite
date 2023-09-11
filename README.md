@@ -1,11 +1,8 @@
-<h1>Web Sitem</h1>
-Bir web sitesi tasarımcısının tanıtım sayfasıdır.
-<h2>Kullanılan Teknolojiler</h2>
-HTML ve CSS kullanılmıştır.
-<h2>Ekran Görüntüsü</h2>
-![](ekran.gif)
-# mywebside
-# my-website
-# my-website
-# my-website
-# mywebsite
+<h2>Bu projede yemek sitesi sipariş verme yorum ve bloglar tasarlanmıştır<h2>
+<h2>Full Responsive yapıdadır.<h2>
+
+<h1>Kullanılan Teknolojiler<h1>
+<h3>HTML, CSS, JAVASCRIPT<H3>
+![](burgerprinces1.gif)
+<br>
+![](burgerprinces2.gif)# mywebsitem
