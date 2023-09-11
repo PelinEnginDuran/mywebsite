@@ -4,6 +4,4 @@
 <h1>Kullanılan Teknolojiler<h1>
 <h3>HTML, CSS, JAVASCRIPT<H3>
 ![](burgerprinces1.gif)
-<br>
-![](burgerprinces2.gif)# mywebsitem
-# mywebsite
+![](burgerprinces2.gif)
