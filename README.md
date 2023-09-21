@@ -4,6 +4,4 @@
 <h1>Kullanılan Teknolojiler<h1>
 <h3>HTML, CSS, JAVASCRIPT<H3>
 
-![](burgerprinces1.gif)
-
-![](burgerprinces2.gif)
+<img src="burgerprinces1.gif"/>
