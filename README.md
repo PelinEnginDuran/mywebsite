@@ -20,7 +20,7 @@ Gif
 
 
 
-![](burgerprinces1.gif)
+![gıf](/burgerprinces1.gif)
 
 
 
